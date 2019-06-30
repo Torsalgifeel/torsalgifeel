@@ -1,0 +1,20 @@
+title: 私のWebGL制作日誌（仮）
+description: 自作WebGLビューワーを制作する日誌です。JavascriptとThree.jsを使います。
+baseurl: ""
+url: "https://torsalgifeel.github.io"
+
+author:
+  name: Torsalgifeel（頭座技富）
+  email: kuinlee@outlook.com
+  github: torsalgifeel
+  twitter: torsalgifeel
+
+paginate: 3
+paginate_path: page:num
+
+sass:
+  style: expanded
+
+gems:
+  - jekyll-paginate
+  - jekyll-feed
